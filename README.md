@@ -8,15 +8,25 @@ In order to proceed with level 0 here  we ssh to bandit0@bandit.labs.org using  
 
 ![image](https://cloud.githubusercontent.com/assets/18344284/14377947/23916066-fd90-11e5-9d56-e2316b7594ad.png)
 
-Level 0 -> Level 1   
+Level 0 -> Level 1 
+
+The password for the next level is stored in a file called readme located in the home directory.Using ‘cat’ command password is grabbed for level 1.
+
+Cat - read data from files 
 
 ![image](https://cloud.githubusercontent.com/assets/18344284/14377963/3d21d402-fd90-11e5-9b59-beff1409f623.png)
 
 Level 1 -> Level 2
 
+The password is in a file called - located in the home directory. Here ls and cat command used for grab password.
+
+ls –  list directory content of files and directories
+
 ![image](https://cloud.githubusercontent.com/assets/18344284/14377967/439b27ca-fd90-11e5-9ec6-517a2c61fa99.png)
 
 Level 2 -> Level 3
+
+The password for the next level is stored in a file called 'spaces in this filename'
 
 ![image](https://cloud.githubusercontent.com/assets/18344284/14377971/4b80a60e-fd90-11e5-812a-8960f55eb2c6.png)
 
